@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 0x02. C - Functions, nested loops
 0-putchar.c - prints _putchar, followed by a new line.
 1-alphabet.c - prints the alphabet, in lowercase, followed by a new line.
@@ -16,3 +17,6 @@
 102-fibonacci.c - prints the first 50 Fibonacci numbers, starting with 1 and 2, followed by a new line.
 103-fibonacci.c - finds and prints the sum of the even-valued terms, followed by a new line.
 104-fibonacci.c - finds and prints the first 98 Fibonacci numbers, starting with 1 and 2, followed by a new line
+=======
+
+>>>>>>> 6fb7a7fd1560ce158b8164ace752f8eab09d560a
